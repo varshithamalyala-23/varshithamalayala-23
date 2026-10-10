@@ -77,14 +77,13 @@ More details will be added as these projects develop.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=varshithamalayala-23&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=varshithamalyala-23&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshithamalayala-23&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshithamalyala-23&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Most-used Languages"/>
 
-<img src="https://streak-stats.demolab.com?user=varshithamalayala-23&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=varshithamalyala-23&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Contribution Streak"/>
 
 </div>
-
 ## `$ next_milestones`
 
 - [ ] Practice DSA consistently.
